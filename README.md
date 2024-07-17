@@ -23,7 +23,6 @@
 
 <div align="center">
   <img src="https://i.ibb.co/9nxSWtn/c1.png" alt="Screenshot 1" width="300"/>
-  <img src="https://i.ibb.co/f2DcS7w/c3.png" alt="Screenshot 3" width="300"/>
   <img src="https://i.ibb.co/9HWYfBp/c2.png" alt="Screenshot 2" width="300"/>
 </div>
 
